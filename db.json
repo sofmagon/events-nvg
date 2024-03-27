@@ -35,24 +35,24 @@
 		{
 			"id": 5,
 			"name": "EmpleANDO: New Ventures + Citibanamex",
-			"about": "July 31st, 2024",
-			"date": "Integer ac purus nulla. Praesent convallis sem a turpis ultrices, pellentesque consequat turpis porttitor. Suspendisse consequat ut nunc ac commodo. Nunc pulvinar auctor risus in aliquet. Etiam placerat magna a odio ullamcorper, ut porttitor sem commodo. Sed faucibus in enim a rhoncus. Fusce quis elit elit. Interdum et malesuada fames ac ante ipsum primis in faucibus.",
+			"about": "Integer ac purus nulla. Praesent convallis sem a turpis ultrices, pellentesque consequat turpis porttitor. Suspendisse consequat ut nunc ac commodo. Nunc pulvinar auctor risus in aliquet. Etiam placerat magna a odio ullamcorper, ut porttitor sem commodo. Sed faucibus in enim a rhoncus. Fusce quis elit elit. Interdum et malesuada fames ac ante ipsum primis in faucibus.",
+			"date": "July 31st, 2024.",
 			"url": "https://docs.google.com/forms/u/0/",
 			"image": "https://i.ibb.co/PGHzfnY/event-5.png"
 		},
 		{
 			"id": 6,
 			"name": "Webinar: Acelera tu negocio",
-			"about": "August 15th, 2024",
-			"date": "Donec pellentesque lacus vulputate purus tempus, at egestas libero vehicula. Sed tempus metus at arcu sollicitudin tempus nec ac tellus. Suspendisse porttitor mollis nisi sit amet ultricies. Praesent a sollicitudin felis. Sed nec dignissim nibh. Vivamus vel volutpat diam, id molestie justo. Donec eget ante quis sapien consequat tempor ut at eros.",
+			"about": "Donec pellentesque lacus vulputate purus tempus, at egestas libero vehicula. Sed tempus metus at arcu sollicitudin tempus nec ac tellus. Suspendisse porttitor mollis nisi sit amet ultricies. Praesent a sollicitudin felis. Sed nec dignissim nibh. Vivamus vel volutpat diam, id molestie justo. Donec eget ante quis sapien consequat tempor ut at eros.",
+			"date": "August 15th, 2024",
 			"url": "https://docs.google.com/forms/u/0/",
 			"image": "https://i.ibb.co/XZz60q2/event-6.png"
 		},
 		{
 			"id": 7,
 			"name": "Lógralo Online: Amazon México",
-			"about": "September 22nd, 2024",
-			"date": "Pellentesque sit amet pellentesque mauris, vitae fringilla dui. Proin rhoncus a metus quis mollis. Aliquam id sapien scelerisque, convallis quam ut, blandit ante. Suspendisse orci massa, vulputate et facilisis et, ullamcorper non tortor. Suspendisse feugiat porta orci, non facilisis elit aliquam id. Pellentesque dolor neque, elementum vitae pellentesque quis, tempus in quam.",
+			"about": "Pellentesque sit amet pellentesque mauris, vitae fringilla dui. Proin rhoncus a metus quis mollis. Aliquam id sapien scelerisque, convallis quam ut, blandit ante. Suspendisse orci massa, vulputate et facilisis et, ullamcorper non tortor. Suspendisse feugiat porta orci, non facilisis elit aliquam id. Pellentesque dolor neque, elementum vitae pellentesque quis, tempus in quam.",
+			"date": "September 22nd, 2024",
 			"url": "https://docs.google.com/forms/u/0/",
 			"image": "https://i.ibb.co/M26HgDd/event-7.png"
 		}
